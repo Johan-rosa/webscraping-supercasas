@@ -1,0 +1,867 @@
+tipo_vivienda,divisa,precio,habitaciones,banios,parqueos,direccion,metraje,detalles
+apartamento,US$,"78,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",52,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"88,400",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",68,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"129,800",2,2,2,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",98,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Terraza, Walk In Closet"
+apartamento,US$,"128,200",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",107,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"131,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",94,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"80,800",2,1,1,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",76,"Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Seguridad 24 Horas, Terraza"
+apartamento,US$,"78,400",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",67,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Control de Acceso, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"80,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",56,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"158,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"115,500",2,2.5,1,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",84,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"147,000",3,3.5,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"139,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",110,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"129,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",85,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"170,000",3,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",144,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"235,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",191,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"70,950",1,1.5,1,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",56,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"102,000",2,2,1,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",86,"Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"202,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",158,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"97,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",67,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"156,250",2,2.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",110,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"160,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",111,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"131,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",94,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"138,150",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",110,"1/2 Baño, Agua Potable, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"11,100,000",3,3.5,2,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",200,"Area Servicio Independiente, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Inversor, Patio, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"5,800,000",2,2,2,"Arroyo Hondo Viejo, Santo Domingo Centro (D.N.), Santo Domingo",114,"Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Estudio, Lobby"
+apartamento,US$,"525,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",375,"1/2 Baño, Ascensor, Cuarto de Servicio, Estudio, Family Room, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"123,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",96,"Ascensor, Gimnasio, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"5,800,000",2,2,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",125,"Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"4,950,000",2,2,2,"Honduras, Santo Domingo Centro (D.N.), Santo Domingo",90,"Balcón, Cisterna, Inversor, Pozo, Seguridad 24 Horas, Terraza"
+apartamento,US$,"152,000",3,3.5,2,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",132,"Area de Juegos Infantiles, Ascensor, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"179,000",3,3,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",180,"Control de Acceso, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"5,200,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",0,"Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"160,000",3,2.5,3,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",148,"1/2 Baño, Agua Potable, Ascensor, Cisterna, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"199,900",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",175,"Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gazzebo, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"252,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",225,"1/2 Baño, Ascensor, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"128,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",140,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica"
+apartamento,US$,"355,000",3,3.5,3,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"155,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",225,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"185,000",2,2.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",173,"1/2 Baño, Ascensor, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"12,000,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",360,"Ascensor, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"11,000,000",4,4,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",310,"Lobby, Planta Eléctrica, Seguridad 24 Horas"
+casa,RD$,"4,850,000",4,2.5,2,"Arroyo Manzano, Santo Domingo Centro (D.N.), Santo Domingo",265,"Patio, Seguridad 24 Horas"
+casa,RD$,"8,500,000",3,2,NA,"Gala, Santo Domingo Centro (D.N.), Santo Domingo",395,
+casa,RD$,"7,650,000",3,2,NA,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",232,
+apartamento,US$,"120,000",2,2,2,"Zona Universitaria, Santo Domingo Centro (D.N.), Santo Domingo",143,
+apartamento,US$,"210,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",198,"Ascensor, Balcón, Cuarto de Servicio, Estar Familiar, Planta Eléctrica, Walk In Closet"
+apartamento,RD$,"3,900,000",3,2,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",124,"Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Seguridad 24 Horas"
+apartamento,RD$,"4,200,000",2,1,NA,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",140,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Patio, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"1,700,000",1,1,1,"Altos de Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",47,"Agua Potable, Balcón, Cisterna, Control de Acceso, Seguridad 24 Horas"
+apartamento,RD$,"3,200,000",3,2,2,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",115,"Agua Potable, Balcón, Control de Acceso, Cuarto de Servicio, Walk In Closet"
+apartamento,US$,"155,000",3,3.5,3,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",217,"1/2 Baño, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"7,500,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",162,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"136,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"4,200,000",2,1,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",110,"Agua Potable, Balcón, Cuarto de Servicio"
+apartamento,US$,"169,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",89,"1/2 Baño, Agua Potable, Ascensor, Gazzebo, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"343,200",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",250,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Estudio, Gazzebo, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,RD$,"9,800,000",3,2,2,"10 1/2 Carretera Sanchez, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Patio"
+apartamento,US$,"128,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",140,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"128,882",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",60,"Agua Potable, Ascensor, Cisterna, Piscina, Planta Eléctrica"
+apartamento,US$,"175,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"228,000",3,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,US$,"1,250,000",3,3.5,5,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",560,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gimnasio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"260,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",188,"1/2 Baño, Agua Potable, Ascensor, Cuarto de Servicio, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"155,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",140,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"230,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",205,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica"
+apartamento,US$,"236,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",236,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"350,000",NA,NA,NA,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Balcón, Cuarto de Servicio, Estar Familiar, Estudio, Gazzebo, Gimnasio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"265,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",164,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,900,000",3,2,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,RD$,"7,450,000",3,2,1,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",280,
+apartamento,RD$,"6,950,000",3,3,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",135,"Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"220,000",4,4.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",205,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"5,650,000",2,2.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Aire Acondicionado, Area Servicio Independiente, Cisterna, Estar Familiar, Family Room, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"220,000",3,3,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",205,"Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"134,308",3,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",182,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"69,000",3,3.5,1,"Honduras, Santo Domingo Centro (D.N.), Santo Domingo",119,"1/2 Baño, Ascensor, Balcón, Cisterna, Control de Acceso, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"50,000",1,1.5,1,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",75,"1/2 Baño, Agua Potable, Cisterna, Control de Acceso, Lobby, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"155,000",2,2.5,1,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",115,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"121,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",73,"Ascensor, Control de Acceso, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"76,700",1,1.5,1,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",59,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"165,000",2,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+casa,US$,"350,000",5,5.5,10,"Cuesta Hermosa II, Santo Domingo Centro (D.N.), Santo Domingo",750,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Jacuzzi, Patio, Piscina, Planta Eléctrica, Pozo, Walk In Closet"
+apartamento,US$,"650,000",4,4.5,4,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",330,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"135,000",3,2.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",127,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"235,000",2,2,NA,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",125,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"235,000",2,2,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",122,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"170,000",1,1,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",88,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"245,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+casa,RD$,"12,000,000",4,4.5,4,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Jacuzzi, Patio, Piscina, Terraza"
+apartamento,US$,"485,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",330,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"254,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",195,"1/2 Baño, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"3,900,000",3,2,2,"Don Honorio, Santo Domingo Centro (D.N.), Santo Domingo",124,"Area de Juegos Infantiles, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Piscina, Pozo, Seguridad 24 Horas"
+apartamento,US$,"103,500",1,2,1,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",69,"Area de Juegos Infantiles, Ascensor, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"9,000,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",224,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"7,600,000",3,2.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Area Servicio Independiente, Cisterna, Cuarto de Servicio, Estudio, Patio, Terraza, Walk In Closet"
+apartamento,RD$,"7,500,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"125,000",3,2,2,"Costa Caribe, Santo Domingo Centro (D.N.), Santo Domingo",161,"Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Vestidores"
+apartamento,US$,"75,000",1,1,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",50,"Ascensor, Cisterna, Control de Acceso, Gimnasio, Planta Eléctrica"
+apartamento,US$,"360,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",267,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"125,000",2,2,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",112,"Agua Potable, Balcón, Cisterna, Control de Acceso, Seguridad 24 Horas"
+apartamento,US$,"150,000",3,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",114,"Balcón, Control de Acceso, Lobby, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"124,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",97,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"228,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",152,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Jacuzzi, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"6,000,000",2,2.5,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",136,"1/2 Baño, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Lobby, Seguridad 24 Horas"
+apartamento,RD$,"3,400,000",1,1,2,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",90,"Control de Acceso, Cuarto de Servicio"
+apartamento,RD$,"3,250,000",3,2,2,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",145,"Agua Potable, Balcón, Cisterna, Cuarto de Servicio"
+apartamento,US$,"240,000",3,3.5,NA,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",234,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"240,000",3,3.5,3,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"134,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",143,"1/2 Baño, Agua Potable, Area Servicio Independiente, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"187,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",157,"1/2 Baño, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica"
+apartamento,US$,"160,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",118,"Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"8,200,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",215,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"265,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cuarto de Servicio, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"3,600,000",2,1,1,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",82,"Agua Potable, Area Servicio Independiente, Cisterna, Cuarto de Servicio"
+apartamento,RD$,"7,500,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",240,"1/2 Baño, Agua Potable, Ascensor, Balcón, Jacuzzi"
+apartamento,US$,"121,000",2,2,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"128,000",2,2,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",116,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"121,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"210,000",4,3.5,4,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",293,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Seguridad 24 Horas"
+apartamento,US$,"110,000",3,2,NA,"Los Prados, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Cisterna, Control de Acceso, Cuarto de Servicio, Inversor, Planta Eléctrica, Pozo"
+apartamento,US$,"92,000",2,2.5,1,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",100,Balcón
+casa,RD$,"9,500,000",3,2.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",437,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Jacuzzi"
+apartamento,US$,"155,000",2,2,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",112,"1/2 Baño, Area Servicio Independiente, Ascensor, Patio, Planta Eléctrica, Terraza"
+apartamento,US$,"260,000",4,4.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",353,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio"
+apartamento,US$,"185,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Agua Potable, Area Servicio Independiente, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"134,000",3,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",134,"Agua Potable, Area Servicio Independiente, Ascensor, Cuarto de Servicio, Lobby, Planta Eléctrica"
+apartamento,US$,"127,000",2,2,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",165,"Agua Potable, Area Servicio Independiente, Ascensor, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"163,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Cuarto de Servicio, Gimnasio, Terraza"
+apartamento,US$,"175,000",3,3,3,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio"
+apartamento,US$,"134,112",2,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",125,"Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"7,200,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"111,000",2,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",102,"Area de Juegos Infantiles, Ascensor, Cisterna, Lobby, Terraza"
+apartamento,RD$,"8,650,000",3,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",234,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"162,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",136,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica"
+apartamento,RD$,"8,200,000",3,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Patio, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,RD$,"7,500,000",3,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",187,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cuarto de Servicio, Estar Familiar, Planta Eléctrica"
+apartamento,US$,"275,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Lobby, Planta Eléctrica, Pozo, Vestidores, Walk In Closet"
+apartamento,RD$,"5,400,000",3,2,2,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",135,"Balcón, Cisterna, Control de Acceso"
+apartamento,US$,"235,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",222,"1/2 Baño, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"155,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",62,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Satélite, Seguridad 24 Horas, Terraza"
+casa,RD$,"9,800,000",4,4.5,4,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",360,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Jacuzzi, Patio, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"135,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",115,"Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"123,500",3,2.5,2,"Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Seguridad 24 Horas"
+casa,RD$,"7,500,000",3,2.5,3,"Colinas del Seminario, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Patio, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,700,000",3,2,2,"Cuesta Brava, Santo Domingo Centro (D.N.), Santo Domingo",148,"Agua Potable, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Seguridad 24 Horas, Terraza"
+apartamento,US$,"111,000",1,1.5,NA,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio"
+apartamento,US$,"414,800",3,3.5,NA,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",244,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"124,500",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",65,
+apartamento,US$,"111,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",73,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas"
+apartamento,US$,"560,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",343,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Shutters"
+apartamento,US$,"285,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",194,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"160,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",103,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Control de Acceso, Piscina, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"113,500",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",65,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas"
+apartamento,US$,"335,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",225,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Gimnasio, Lobby, Piscina"
+apartamento,US$,"540,000",3,3,3,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",447,
+apartamento,US$,"1,500,000",4,4.5,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",554,"1/2 Baño, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"650,000",3,3,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",340,"1/2 Baño, Aire Acondicionado, Area de Juegos Infantiles, Balcón, Estudio, Gimnasio, Jacuzzi, Piscina, Walk In Closet"
+apartamento,US$,"100,000",1,1.5,NA,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",62,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Gimnasio, Lobby, Piscina, Sauna"
+apartamento,US$,"235,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"850,000",NA,NA,NA,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",545,"Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"315,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",145,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Control de Acceso, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"325,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",185,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Shutters, Walk In Closet"
+apartamento,US$,"750,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",420,"1/2 Baño, Agua Potable, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"660,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",355,
+apartamento,US$,"500,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",308,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"170,000",2,2,2,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",125,"1/2 Baño, Agua Potable, Ascensor, Cuarto de Servicio"
+apartamento,RD$,"6,500,000",2,2,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"123,500",3,2.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",137,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Jacuzzi"
+apartamento,US$,"280,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,US$,"450,000",4,4,4,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",788,
+apartamento,US$,"585,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"575,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",280,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"585,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+casa,US$,"450,000",4,4,4,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",788,
+apartamento,US$,"220,000",3,NA,NA,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",273,
+apartamento,RD$,"4,300,000",2,2,1,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",107,Balcón
+apartamento,US$,"134,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",143,"Ascensor, Balcón, Gimnasio, Planta Eléctrica"
+apartamento,US$,"185,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",149,"Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica"
+apartamento,US$,"140,000",2,2.5,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",158,"Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica"
+apartamento,US$,"215,000",3,3.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",205,"Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica"
+apartamento,US$,"170,000",3,2.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"160,000",2,2,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",97,"Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica"
+apartamento,US$,"275,000",2,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",292,"1/2 Baño, Agua Potable, Balcón, Cisterna, Cuarto de Servicio, Estudio, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"3,700,000",3,2.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",150,"Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Seguridad 24 Horas"
+apartamento,RD$,"3,800,000",3,2,2,"Republica de Colombia, Santo Domingo Centro (D.N.), Santo Domingo",105,"Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"9,500,000",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"7,000,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",158,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"165,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",147,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"6,760,000",3,2.5,2,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",189,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"110,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",65,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"5,700,000",2,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",126,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"11,500,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",325,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"5,400,000",2,2,1,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",112,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"6,000,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",138,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"6,900,000",3,2.5,2,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"195,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"68,000",1,1,1,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",74,"Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso"
+apartamento,US$,"125,000",2,2,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",110,"Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Terraza"
+casa,US$,"875,000",6,6.5,NA,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",700,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cuarto de Servicio, Gimnasio, Patio, Piscina, Terraza"
+apartamento,US$,"160,000",3,2.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+casa,US$,"260,000",3,3,3,"Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",240,
+apartamento,RD$,"9,500,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",222,Estar Familiar
+casa,US$,"520,000",3,4.5,3,"Cuesta Hermosa I, Santo Domingo Centro (D.N.), Santo Domingo",360,
+casa,US$,"450,000",2,2,2,"Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",0,
+apartamento,RD$,"7,000,000",3,2.5,2,"Av. Cayetano Germosen, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"18,000,000",4,5.5,6,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",625,
+apartamento,US$,"388,000",3,4,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",208,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"10,950,000",3,3,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",260,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Cuarto de Servicio, Family Room, Inversor"
+apartamento,RD$,"7,050,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",115,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"201,000",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",154,"Ascensor, Gimnasio, Lobby, Planta Eléctrica, Terraza"
+apartamento,RD$,"195,000",3,3.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",205,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"120,000",2,2.5,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"199,000",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"190,000",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Ascensor, Control de Acceso, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"90,000",1,1.5,1,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",60,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"450,000",4,4.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",395,"1/2 Baño, Ascensor, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"650,000",4,4.5,4,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",595,"1/2 Baño, Ascensor, Control de Acceso, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"10,000,000",3,3.5,3,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",238,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"335,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",258,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cuarto de Servicio, Estudio, Family Room"
+apartamento,US$,"130,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,RD$,"8,800,000",3,2.5,2,"Buenos Aires del Mirador, Santo Domingo Centro (D.N.), Santo Domingo",278,"Estar Familiar, Gazzebo, Patio, Terraza"
+apartamento,US$,"330,000",3,3.5,4,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",275,"1/2 Baño, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"253,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"7,000,000",1,2,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"285,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Shutters, Walk In Closet"
+apartamento,US$,"835,000",4,4.5,4,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",485,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"225,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"252,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",190,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Estar Familiar, Gimnasio, Planta Eléctrica, Walk In Closet"
+apartamento,RD$,"5,100,000",3,2,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",140,"Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"8,000,000",3,3.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",206,"1/2 Baño, Ascensor, Balcón, Cuarto de Servicio, Estar Familiar, Planta Eléctrica"
+apartamento,US$,"185,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Estudio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"76,000",1,1.5,1,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",56,"1/2 Baño, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"168,887",2,2,1,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",114,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Inversor, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"255,000",3,1,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",195,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Inversor, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"112,000",1,1,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",102,"Ascensor, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"255,250",3,3.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",170,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Inversor, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,RD$,"3,700,000",2,2,1,"Buenos Aires del Mirador, Santo Domingo Centro (D.N.), Santo Domingo",110,"Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Pozo"
+apartamento,US$,"118,000",3,3,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,RD$,"3,390,000",2,2,2,"Republica de Colombia, Santo Domingo Centro (D.N.), Santo Domingo",97,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cuarto de Servicio, Piscina"
+apartamento,US$,"207,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",217,
+apartamento,US$,"230,000",4,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",211,
+casa,US$,"744,000",3,4,5,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",760,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Cuarto de Servicio, Estudio, Family Room, Inversor, Patio, Planta Eléctrica, Shutters, Terraza, Walk In Closet"
+apartamento,RD$,"5,150,000",2,2.5,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",112,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cuarto de Servicio, Inversor, Terraza"
+apartamento,RD$,"7,900,000",2,NA,NA,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",0,
+casa,US$,"250,000",4,4,5,"El Milloncito, Santo Domingo Centro (D.N.), Santo Domingo",300,
+casa,US$,"1,250,000",2,3,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",613,
+apartamento,US$,"390,000",3,3,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",258,"1/2 Baño, Agua Potable, Balcón, Seguridad 24 Horas"
+apartamento,US$,"149,000",3,2,NA,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Balcón, Cisterna, Control de Acceso, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"160,000",3,2,2,"Zona Colonial, Santo Domingo Centro (D.N.), Santo Domingo",111,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"650,000",4,5,3,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",365,"Aire Acondicionado, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"189,000",3,2,2,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",104,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Terraza, Walk In Closet"
+apartamento,US$,"453,300",3,3,3,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",265,"1/2 Baño, Ascensor, Cuarto de Servicio, Jacuzzi"
+apartamento,RD$,"7,500,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Agua Potable, Area Servicio Independiente, Control de Acceso"
+casa,US$,"260,000",5,3.5,4,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Patio, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"102,000",2,2.5,1,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",117,
+apartamento,US$,"50,600",1,1,1,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",47,
+apartamento,US$,"88,400",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",68,
+apartamento,US$,"151,200",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",112,
+apartamento,US$,"128,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",109,
+apartamento,US$,"278,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",206,
+apartamento,US$,"183,700",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",192,
+apartamento,US$,"277,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"158,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",130,
+apartamento,US$,"210,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",195,
+apartamento,US$,"205,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"205,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",170,
+apartamento,US$,"175,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",175,
+apartamento,US$,"197,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",185,
+apartamento,US$,"458,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",322,
+apartamento,US$,"172,116",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",123,
+apartamento,US$,"515,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",320,
+apartamento,US$,"243,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",160,
+apartamento,US$,"166,323",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",119,
+apartamento,US$,"170,265",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",131,
+apartamento,US$,"100,535",1,1.5,1,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",74,
+apartamento,US$,"465,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",319,
+apartamento,US$,"354,000",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",189,
+apartamento,US$,"240,000",2,2.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",134,
+apartamento,US$,"350,000",3,3.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",220,
+apartamento,US$,"228,000",3,3.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",208,
+apartamento,US$,"440,500",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",290,
+apartamento,US$,"420,000",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",290,
+apartamento,US$,"327,000",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",244,
+apartamento,US$,"151,000",2,2.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",87,
+apartamento,US$,"485,000",3,3.5,4,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",327,
+apartamento,US$,"370,000",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",246,
+apartamento,US$,"175,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",90,
+apartamento,US$,"650,000",4,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",333,
+apartamento,US$,"895,000",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",412,
+apartamento,US$,"690,000",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",420,
+apartamento,US$,"657,248",4,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",325,
+apartamento,US$,"145,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",75,
+apartamento,US$,"199,400",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",119,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"249,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",198,
+apartamento,US$,"120,125",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",78,
+apartamento,US$,"160,000",NA,NA,NA,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",136,
+apartamento,US$,"154,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",122,
+apartamento,US$,"150,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",156,
+apartamento,US$,"104,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",75,
+apartamento,US$,"222,500",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",155,
+apartamento,US$,"198,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",170,
+apartamento,US$,"223,400",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",215,
+apartamento,US$,"144,640",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",130,
+apartamento,US$,"1,600,000",4,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",507,
+apartamento,US$,"157,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",85,
+apartamento,US$,"950,000",4,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",412,
+apartamento,US$,"131,430",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",78,
+apartamento,US$,"256,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",140,
+apartamento,US$,"255,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"560,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",280,
+apartamento,US$,"289,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",105,
+apartamento,US$,"220,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",168,
+apartamento,US$,"128,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",118,
+apartamento,US$,"114,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",75,
+apartamento,US$,"184,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",160,
+apartamento,US$,"140,500",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",120,
+casa,US$,"800,000",4,4.5,4,"Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",500,
+apartamento,US$,"440,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",290,
+apartamento,US$,"330,000",3,3.5,3,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",230,
+apartamento,US$,"125,000",3,2.5,2,"Gala, Santo Domingo Centro (D.N.), Santo Domingo",133,
+apartamento,US$,"213,000",3,3.5,2,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",210,
+apartamento,US$,"395,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",240,
+apartamento,US$,"172,000",3,2.5,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",140,
+apartamento,RD$,"5,000,000",3,2.5,2,"Buenos Aires del Mirador, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,US$,"190,000",3,3.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",155,
+apartamento,US$,"985,000",4,4,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",600,
+apartamento,US$,"740,000",3,3.5,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",402,
+apartamento,US$,"1,700,000",4,4.5,5,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",853,
+apartamento,US$,"2,425,000",4,4.5,6,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",650,
+apartamento,US$,"1,340,000",4,4.5,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",462,
+apartamento,US$,"4,397,000",4,8,8,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",1197,
+apartamento,US$,"2,048,000",4,4.5,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",606,
+apartamento,US$,"995,000",3,3.5,3,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",745,
+apartamento,US$,"885,000",3,3.5,3,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",406,
+apartamento,US$,"1,150,000",3,3.5,4,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",400,
+apartamento,US$,"322,000",3,3.5,2,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",214,
+apartamento,US$,"1,970,000",4,4.5,6,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",790,
+apartamento,US$,"299,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",214,
+apartamento,US$,"279,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",214,
+apartamento,US$,"75,750",2,1,1,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",65,
+apartamento,US$,"475,000",3,3.5,3,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",308,
+apartamento,US$,"145,000",1,2,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",80,
+apartamento,US$,"335,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",230,
+apartamento,US$,"310,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",240,
+apartamento,US$,"414,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",280,
+apartamento,US$,"365,000",3,3.5,3,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",266,
+apartamento,US$,"335,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",255,
+apartamento,US$,"315,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",240,
+apartamento,US$,"431,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",358,
+apartamento,US$,"235,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",150,
+casa,US$,"380,000",4,4.5,3,"Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",500,
+apartamento,US$,"155,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",168,
+apartamento,US$,"138,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",98,
+apartamento,US$,"97,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",64,
+apartamento,US$,"154,700",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",128,
+apartamento,US$,"202,290",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",158,
+apartamento,US$,"210,490",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",167,
+apartamento,US$,"147,000",3,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",153,
+apartamento,US$,"192,400",3,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",249,
+apartamento,RD$,"5,300,000",3,2,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",138,
+apartamento,US$,"421,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",310,
+apartamento,US$,"260,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",220,
+apartamento,US$,"103,000",2,2,2,"Gala, Santo Domingo Centro (D.N.), Santo Domingo",108,
+apartamento,US$,"271,300",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",211,
+apartamento,RD$,"5,450,000",3,2.5,2,"Colinas Del Oeste, Santo Domingo Centro (D.N.), Santo Domingo",152,
+apartamento,US$,"247,600",3,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",179,
+apartamento,RD$,"4,700,000",3,2,2,"Colinas Del Oeste, Santo Domingo Centro (D.N.), Santo Domingo",138,
+apartamento,US$,"119,000",1,1.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",103,
+apartamento,US$,"155,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",105,
+apartamento,US$,"209,500",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",147,
+apartamento,US$,"172,900",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",133,
+apartamento,US$,"249,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",178,
+apartamento,US$,"262,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"246,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",207,
+apartamento,US$,"339,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",257,
+apartamento,US$,"367,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",210,
+apartamento,RD$,"6,400,000",3,2,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",184,"Balcón, Estar Familiar"
+apartamento,US$,"165,500",3,3.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",142,
+apartamento,US$,"220,000",3,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",183,
+apartamento,RD$,"6,700,000",3,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",159,
+apartamento,US$,"80,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",56,
+apartamento,US$,"370,000",4,3.5,2,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",350,
+apartamento,US$,"194,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",170,
+apartamento,US$,"98,500",3,2.5,2,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",97,
+apartamento,US$,"162,000",2,2.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",116,
+apartamento,US$,"56,000",1,1.5,1,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",56,
+apartamento,US$,"310,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",180,
+apartamento,US$,"465,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",305,
+apartamento,US$,"194,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",70,
+apartamento,US$,"149,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",61,
+apartamento,US$,"345,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"310,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",180,
+apartamento,US$,"336,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",275,
+apartamento,US$,"625,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",415,
+apartamento,US$,"217,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",120,
+apartamento,US$,"700,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",400,
+apartamento,US$,"256,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",170,
+apartamento,US$,"154,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",70,
+apartamento,US$,"725,000",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",405,
+apartamento,US$,"134,750",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",55,
+apartamento,US$,"178,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",145,
+apartamento,US$,"657,248",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",325,
+apartamento,US$,"110,250",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",70,
+apartamento,US$,"116,250",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",75,
+apartamento,US$,"187,500",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,US$,"158,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",105,
+apartamento,RD$,"4,600,000",3,2.5,2,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",179,
+apartamento,US$,"152,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",132,
+apartamento,US$,"196,300",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",151,
+apartamento,US$,"246,500",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",170,
+apartamento,US$,"255,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",216,
+apartamento,US$,"310,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",247,
+apartamento,US$,"290,000",3,3.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"95,000",1,1.5,1,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",55,
+apartamento,US$,"156,000",2,2.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",108,
+apartamento,US$,"250,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",163,"1/2 Baño, Ascensor, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"5,950,000",2,2,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",133,"1/2 Baño, Agua Potable, Area Servicio Independiente, Control de Acceso, Inversor"
+apartamento,US$,"300,000",4,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",190,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Cuarto de Servicio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Terraza"
+apartamento,US$,"900,000",5,4.5,5,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area Servicio Independiente, Piscina"
+casa,RD$,"15,200,000",5,5.5,4,"Arroyo Hondo Viejo, Santo Domingo Centro (D.N.), Santo Domingo",365,
+apartamento,US$,"316,000",3,5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Jacuzzi, Lobby, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"350,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",413,"1/2 Baño, Ascensor, Cuarto de Servicio, Estar Familiar, Estudio, Lobby, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"6,500,000",3,2,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",126,1/2 Baño
+apartamento,US$,"115,000",2,2,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",110,"Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio"
+apartamento,US$,"220,000",3,3.5,2,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",250,"1/2 Baño, Ascensor, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"152,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",132,"1/2 Baño, Agua Potable, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"125,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",154,"1/2 Baño, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+casa,RD$,"7,900,000",3,4,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",350,"Cisterna, Patio, Seguridad 24 Horas"
+apartamento,US$,"220,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",200,"Ascensor, Balcón"
+apartamento,US$,"165,000",3,1.5,NA,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica"
+apartamento,RD$,"5,100,000",2,2,1,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",95,"Ascensor, Balcón"
+apartamento,RD$,"5,600,000",2,2,2,"Zona Universitaria, Santo Domingo Centro (D.N.), Santo Domingo",143,"Ascensor, Balcón, Cisterna, Seguridad 24 Horas, Terraza"
+apartamento,US$,"8,500,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",190,"1/2 Baño, Ascensor, Balcón, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"124,000",3,2.5,2,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",129,"1/2 Baño, Ascensor, Balcón, Lobby, Seguridad 24 Horas"
+apartamento,US$,"180,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",224,"1/2 Baño, Terraza"
+apartamento,US$,"9,500,000",3,2,NA,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",225,"Balcón, Cuarto de Servicio, Lobby, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"3,385,000",2,1,1,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",85,"Balcón, Cisterna, Pozo, Seguridad 24 Horas"
+apartamento,RD$,"6,000,000",2,2,NA,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",108,"1/2 Baño, Balcón, Planta Eléctrica, Pozo"
+casa,US$,"650,000",3,3.5,4,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",711,
+apartamento,RD$,"120,065",1,2.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",75,"1/2 Baño, Agua Potable, Ascensor, Estudio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"8,400,000",3,3,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",182,
+apartamento,US$,"410,000",4,4.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",420,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"7,900,000",3,2.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",165,
+apartamento,US$,"134,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",106,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Shutters"
+apartamento,US$,"185,000",3,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",220,"Estudio, Lobby"
+apartamento,US$,"169,000",3,3.5,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",201,"1/2 Baño, Cuarto de Servicio, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"7,100,000",3,2,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",0,"Ascensor, Balcón, Seguridad 24 Horas"
+apartamento,RD$,"5,600,000",3,2.5,2,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",147,"1/2 Baño, Balcón, Cisterna, Cuarto de Servicio"
+apartamento,RD$,"5,550,000",3,2,2,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Balcón, Cisterna, Seguridad 24 Horas, Vestidores"
+apartamento,RD$,"6,700,000",3,2,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",172,
+apartamento,RD$,"5,700,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",143,1/2 Baño
+apartamento,US$,"295,000",4,4.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",355,"1/2 Baño, Agua Potable, Ascensor, Balcón, Estudio, Planta Eléctrica, Pozo"
+apartamento,US$,"165,000",3,3,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",165,"Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby"
+apartamento,US$,"185,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"270,000",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",270,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"11,000,000",3,4,4,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",287,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"128,500",3,2.5,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",135,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"145,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",112,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"155,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",118,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"5,850,000",3,2,1,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",138,
+casa,US$,"545,000",4,3.5,6,"Lomas de Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",560,"1/2 Baño, Cisterna, Cuarto de Servicio, Estudio, Piscina, Terraza, Vestidores"
+apartamento,US$,"325,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",370,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"375,000",3,3.5,2,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",350,"1/2 Baño, Ascensor, Balcón, Estar Familiar, Gazzebo, Gimnasio, Piscina, Terraza"
+casa,US$,"700,000",4,4.5,6,"Los Rios, Santo Domingo Centro (D.N.), Santo Domingo",460,"1/2 Baño, Agua Potable, Cuarto de Servicio, Estar Familiar, Family Room, Patio, Planta Eléctrica, Pozo, Terraza"
+apartamento,US$,"205,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",248,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Seguridad 24 Horas"
+casa,US$,"485,000",5,5.5,NA,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",430,"1/2 Baño, Agua Potable, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Patio, Terraza"
+apartamento,US$,"215,000",3,4,NA,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",250,"Agua Potable, Cuarto de Servicio, Lobby, Seguridad 24 Horas"
+apartamento,US$,"155,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"82,500",1,1.5,1,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",60,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"177,000",3,3.5,2,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",152,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"98,000",3,2.5,2,"Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",98,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Terraza, Vestidores"
+apartamento,RD$,"4,200,000",2,2,2,"Las Colinas, Santo Domingo Centro (D.N.), Santo Domingo",125,"Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Planta Eléctrica, Vestidores"
+casa,RD$,"30,000,000",4,3.5,6,"Los Rios, Santo Domingo Centro (D.N.), Santo Domingo",490,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Patio, Planta Eléctrica, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"160,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"7,500,000",3,2.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",169,"1/2 Baño, Ascensor, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"165,000",3,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",147,"1/2 Baño, Agua Potable, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"117,875",2,2,2,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",94,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"158,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"7,020,000",3,3,2,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",181,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Estar Familiar, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"160,000",2,2.5,2,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",101,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"200,000",3,3.5,2,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",142,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,RD$,"5,538,000",3,2.5,2,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",115,"Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"7,050,000",2,2.5,NA,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",169,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"142,400",1,1.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",78,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,894,000",3,2,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",100,"Agua Potable, Area de Juegos Infantiles, Control de Acceso, Cuarto de Servicio, Gazzebo, Piscina, Seguridad 24 Horas"
+apartamento,US$,"126,625",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",78,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"299,000",2,2.5,2,"Malecon, Santo Domingo Centro (D.N.), Santo Domingo",184,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"171,200",3,2.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",144,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"136,224",2,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",129,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"115,000",1,1.5,2,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",57,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"4,500,000",3,2.5,2,"Pantoja, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Estar Familiar, Vestidores"
+apartamento,RD$,"4,700,000",3,3,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",153,"Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"190,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"82,200",1,1.5,1,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",79,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"199,999",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Gazzebo, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"89,500",1,1.5,1,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",68,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,950,000",2,2,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",84,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Patio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"64,400",1,1,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",51,"Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"265,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"262,500",4,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",198,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"12,995,000",4,3.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",320,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"172,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",123,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"98,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",66,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"208,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",150,
+casa,US$,"245,000",3,3.5,4,"Altos de Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"255,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Sauna, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"198,000",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"183,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",121,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"216,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",174,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"125,000",1,1.5,1,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",78,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"252,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",195,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"110,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",82,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"238,000",4,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",183,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"206,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",167,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"150,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",108,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"238,000",3,3.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"240,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",201,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"7,150,000",2,3,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",142,"Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"175,000",3,2.5,2,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"195,700",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",125,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"348,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",225,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"129,500",2,2,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",95,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"178,000",3,3,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",148,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"329,000",4,4.5,4,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",310,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"215,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",201,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"8,995,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",240,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"139,000",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",87,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"5,900,000",3,2.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"142,624",2,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,US$,"499,500",3,4,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",303,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Shutters, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"159,000",2,2,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",147,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"210,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",185,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"220,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",195,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"229,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",225,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"205,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",185,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Jacuzzi, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,RD$,"6,395,000",3,2.5,2,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",125,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"275,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"129,500",2,3,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",112,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Estar Familiar, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"113,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",97,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Estar Familiar, Estudio, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"435,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",249,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Estudio, Family Room, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Shutters, Terraza, Vestidores"
+casa,RD$,"10,500,000",3,3.5,4,"Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",260,"1/2 Baño, Estudio, Jacuzzi, Patio, Terraza"
+casa,RD$,"16,000,000",3,3.5,4,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",750,"1/2 Baño, Balcón, Cuarto de Servicio, Estar Familiar, Patio, Planta Eléctrica, Terraza"
+apartamento,US$,"401,376",3,2,NA,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",219,"1/2 Baño, Ascensor, Balcón, Estudio, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"105,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",77,"1/2 Baño, Ascensor, Balcón, Gimnasio, Jacuzzi, Piscina, Seguridad 24 Horas"
+apartamento,US$,"136,700",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",66,"1/2 Baño, Ascensor, Balcón, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"175,443",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",122,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"192,000",3,3,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",188,"Aire Acondicionado, Ascensor, Balcón, Estudio, Walk In Closet"
+apartamento,US$,"187,488",1,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",76,"1/2 Baño, Ascensor, Balcón, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"124,500",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",80,"1/2 Baño, Ascensor, Balcón, Piscina, Seguridad 24 Horas"
+apartamento,US$,"125,000",1,2,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",92,"1/2 Baño, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"125,000",2,1.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",94,"1/2 Baño, Ascensor, Balcón, Gimnasio, Jacuzzi, Piscina, Seguridad 24 Horas"
+apartamento,US$,"280,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",230,"1/2 Baño, Ascensor, Balcón, Estudio, Gimnasio, Jacuzzi, Lobby, Sauna, Seguridad 24 Horas"
+apartamento,US$,"187,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",157,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Lobby"
+apartamento,US$,"100,535",1,1.5,1,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",74,"1/2 Baño, Ascensor, Balcón, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"194,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Ascensor, Balcón, Estudio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"170,265",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",140,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Gimnasio, Lobby, Piscina, Terraza, Walk In Closet"
+apartamento,RD$,"7,900,000",3,1,NA,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",182,"Patio, Seguridad 24 Horas, Terraza"
+apartamento,US$,"120,000",2,2.5,1,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",123,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"249,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"192,500",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+casa,US$,"800,000",5,4,4,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",757,"Balcón, Estar Familiar, Gimnasio, Terraza"
+apartamento,US$,"208,896",2,2.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",114,"1/2 Baño, Ascensor, Balcón, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"115,000",1,1.5,1,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",62,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Cisterna, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores"
+apartamento,RD$,"4,600,000",3,2,2,"Gala, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Balcón, Cisterna, Pozo, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"199,000",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+casa,US$,"1,850,000",6,6,NA,"Los Pinos de Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Aire Acondicionado, Area Servicio Independiente, Cisterna, Cuarto de Servicio, Estar Familiar, Estudio, Patio, Piscina, Planta Eléctrica, Shutters, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"160,000",3,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Inversor, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"92,568",3,3.5,2,"Colinas del Seminario, Santo Domingo Centro (D.N.), Santo Domingo",116,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Jacuzzi, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"82,144",2,2,1,"Colinas del Seminario, Santo Domingo Centro (D.N.), Santo Domingo",97,"Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Jacuzzi, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"830,000",3,3.5,4,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",485,
+apartamento,RD$,"24,750,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",263,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Piscina"
+apartamento,RD$,"6,000,000",3,2,2,"Arroyo Hondo Viejo, Santo Domingo Centro (D.N.), Santo Domingo",116,
+apartamento,RD$,"6,900,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",223,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"145,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",204,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"170,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",171,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,950,000",2,1,1,"Los Prados, Santo Domingo Centro (D.N.), Santo Domingo",64,
+casa,RD$,"11,500,000",3,3.5,2,"Altos de Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",289,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Cuarto de Servicio, Family Room, Patio, Pozo, Terraza, Walk In Closet"
+apartamento,RD$,"6,900,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",253,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Inversor, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"5,650,000",2,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",119,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"254,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",228,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"83,000",2,2.5,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",91,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"16,000,000",3,3.5,4,"Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo",250,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gazzebo, Patio, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"176,000",3,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",176,"1/2 Baño, Agua Potable, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"90,750",2,2,1,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",82,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Lobby, Planta Eléctrica, Vestidores, Walk In Closet"
+apartamento,US$,"175,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",146,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,RD$,"5,450,000",3,2.5,2,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",135,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Inversor, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"160,000",2,2,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",100,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"210,000",3,3.5,2,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",218,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Lobby, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"217,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",173,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"2,750,000",1,1.5,1,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",55,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Inversor, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"6,300,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",172,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"149,500",2,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",110,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"650,000",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gimnasio, Inversor, Jacuzzi, Lobby, Patio, Piscina, Planta Eléctrica, Satélite, Sauna, Seguridad 24 Horas, Shutters, Vestidores, Walk In Closet"
+apartamento,RD$,"6,000,000",3,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",124,"1/2 Baño, Balcón, Control de Acceso, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"2,950,000",2,1,1,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",67,"Balcón, Control de Acceso, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,RD$,"15,900,000",4,4,4,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",246,"Cuarto de Servicio, Patio, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"141,800",2,2.5,2,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",108,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"453,300",3,3.5,3,"Serralles, Santo Domingo Centro (D.N.), Santo Domingo",270,"1/2 Baño, Ascensor, Control de Acceso, Cuarto de Servicio, Planta Eléctrica"
+apartamento,US$,"140,200",2,2.5,2,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",108,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"5,200,000",2,2,2,"Arroyo Hondo Viejo, Santo Domingo Centro (D.N.), Santo Domingo",236,"Cuarto de Servicio, Terraza, Walk In Closet"
+casa,RD$,"8,500,000",4,3.5,2,"Atlantida, Santo Domingo Centro (D.N.), Santo Domingo",272,"1/2 Baño, Agua Potable, Aire Acondicionado, Balcón, Control de Acceso, Cuarto de Servicio, Estudio"
+apartamento,US$,"111,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",104,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"5,300,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",143,"1/2 Baño, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar"
+casa,RD$,"8,600,000",3,3.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Cuarto de Servicio, Estudio, Gazzebo, Terraza"
+apartamento,US$,"253,000",3,3.5,2,"Los Prados, Santo Domingo Centro (D.N.), Santo Domingo",311,"1/2 Baño, Ascensor, Balcón, Cuarto de Servicio, Estar Familiar, Family Room, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"8,300,000",3,3,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"149,500",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",137,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"7,000,000",3,2.5,1,"Zona Universitaria, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso"
+casa,RD$,"8,500,000",4,3,4,"Atlantida, Santo Domingo Centro (D.N.), Santo Domingo",228,"Agua Potable, Balcón, Cisterna, Patio"
+casa,RD$,"7,950,000",3,2,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",194,"Agua Potable, Balcón, Patio"
+apartamento,US$,"280,000",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",270,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"78,100",1,1.5,1,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",55,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gimnasio, Inversor, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"112,000",3,3.5,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Terraza, Vestidores"
+apartamento,US$,"220,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"118,645",2,2.5,2,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",132,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Inversor, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,RD$,"7,500,000",3,2.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",212,"Balcón, Control de Acceso, Cuarto de Servicio, Terraza"
+casa,RD$,"7,800,000",4,3.5,3,"Colinas del Seminario, Santo Domingo Centro (D.N.), Santo Domingo",320,"1/2 Baño, Agua Potable, Area Servicio Independiente, Control de Acceso, Cuarto de Servicio, Patio, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"185,000",3,3.5,3,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",187,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,RD$,"5,100,000",3,2.5,2,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",135,"1/2 Baño, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Inversor, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,RD$,"4,900,000",3,2.5,2,"Villa Marina, Santo Domingo Centro (D.N.), Santo Domingo",0,"Balcón, Control de Acceso, Cuarto de Servicio, Inversor, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"625,000",3,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",385,
+apartamento,RD$,"6,500,000",3,2,2,"Costa Verde, Santo Domingo Centro (D.N.), Santo Domingo",171,"Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Inversor, Patio, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"125,000",2,2,2,"Los Proceres, Santo Domingo Centro (D.N.), Santo Domingo",103,
+apartamento,US$,"295,800",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",174,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"146,200",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Planta Eléctrica, Terraza, Walk In Closet"
+apartamento,US$,"76,200",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",59,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"91,180",2,2.5,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",98,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Jacuzzi, Lobby, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"119,370",3,2.5,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",138,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Jacuzzi, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"124,100",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",103,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Planta Eléctrica, Walk In Closet"
+apartamento,RD$,"4,800,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",121,"1/2 Baño, Agua Potable, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"115,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",73,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"115,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",60,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Satélite, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"110,000",1,1.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",73,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"4,600,000",3,2,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",100,"Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Control de Acceso, Inversor, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"209,000",3,2.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"215,000",3,3,3,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",195,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Family Room, Planta Eléctrica, Terraza"
+apartamento,US$,"135,000",2,2.5,2,"Praderas Verdes, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"182,500",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Ascensor, Balcón, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"430,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",252,"Area de Juegos Infantiles, Balcón, Gimnasio, Lobby, Piscina, Sauna"
+apartamento,US$,"139,500",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"119,500",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",110,"Agua Potable, Ascensor, Control de Acceso, Gimnasio, Lobby"
+apartamento,RD$,"4,995,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",71,"1/2 Baño, Agua Potable, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby"
+apartamento,US$,"515,000",4,4.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",338,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Control de Acceso, Cuarto de Servicio, Estudio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"155,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",199,"1/2 Baño, Agua Potable, Aire Acondicionado, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"7,500,000",3,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",160,"1/2 Baño, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"249,200",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",178,"1/2 Baño, Area de Juegos Infantiles, Balcón, Gimnasio, Lobby, Piscina, Terraza"
+apartamento,US$,"69,000",1,2,1,"El Vergel, Santo Domingo Centro (D.N.), Santo Domingo",56,"1/2 Baño, Agua Potable, Ascensor, Balcón, Control de Acceso, Gazzebo, Gimnasio, Jacuzzi, Planta Eléctrica, Terraza, Walk In Closet"
+apartamento,US$,"128,000",3,2.5,2,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Patio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"250,000",3,3.5,3,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Balcón, Control de Acceso, Estar Familiar, Gazzebo, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"260,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",220,"1/2 Baño, Agua Potable, Ascensor, Balcón, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"8,400,000",3,5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"145,000",2,2,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",145,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"197,900",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",178,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Gazzebo, Gimnasio, Lobby, Patio, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+casa,RD$,"8,500,000",3,3.5,NA,"Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",345,
+apartamento,RD$,"5,600,000",3,2,2,"Miramar, Santo Domingo Centro (D.N.), Santo Domingo",108,
+apartamento,US$,"185,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",155,
+apartamento,US$,"131,000",2,2.5,3,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",182,"Control de Acceso, Terraza"
+apartamento,US$,190,3,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",167,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Lobby, Planta Eléctrica, Pozo, Terraza, Walk In Closet"
+apartamento,US$,"140,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"220,000",3,3.5,3,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",165,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"210,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",182,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"307,500",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",287,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gazzebo, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"230,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",233,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,900,000",3,2,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,RD$,"4,600,000",2,2,1,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",120,
+apartamento,US$,"197,900",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",153,"Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"218,700",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",162,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica"
+apartamento,RD$,"6,300,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",119,"1/2 Baño, Agua Potable, Aire Acondicionado, Balcón, Cisterna, Cuarto de Servicio, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"190,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",148,"Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"2,450,000",3,2,1,"Colinas del Arroyo II, Santo Domingo Centro (D.N.), Santo Domingo",80,"Balcón, Control de Acceso, Gazzebo, Seguridad 24 Horas"
+apartamento,US$,"153,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",170,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"231,147",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",111,"1/2 Baño, Area Servicio Independiente, Gimnasio, Lobby, Piscina, Terraza, Walk In Closet"
+apartamento,US$,"253,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",176,"1/2 Baño, Area Servicio Independiente, Ascensor, Lobby, Walk In Closet"
+apartamento,US$,"90,000",1,1.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",46,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Lobby, Seguridad 24 Horas"
+apartamento,US$,"196,000",3,3,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",209,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"335,000",3,3,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",225,"Ascensor, Balcón, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,RD$,"10,500,000",3,2,2,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",250,"Area Servicio Independiente, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Family Room, Patio, Walk In Closet"
+apartamento,US$,"175,000",3,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Ascensor, Cisterna, Cuarto de Servicio, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,US$,"370,000",3,3,2,"Altos de Arroyo Hondo III, Santo Domingo Centro (D.N.), Santo Domingo",400,"1/2 Baño, Agua Potable, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Patio, Walk In Closet"
+apartamento,RD$,"5,500,000",3,2,2,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",123,"Agua Potable, Aire Acondicionado, Balcón, Cuarto de Servicio, Walk In Closet"
+casa,US$,"170,000",3,3.5,2,"Cuesta Hermosa II, Santo Domingo Centro (D.N.), Santo Domingo",222,"1/2 Baño, Estar Familiar, Jacuzzi, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"5,500,000",3,2,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",145,"Balcón, Cuarto de Servicio, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"167,000",3,3.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",170,"1/2 Baño, Ascensor, Cisterna, Cuarto de Servicio, Estar Familiar"
+apartamento,US$,"79,000",2,2,2,"Gala, Santo Domingo Centro (D.N.), Santo Domingo",94,Cuarto de Servicio
+casa,US$,"1,800,000",5,5.5,9,"Los Pinos, Santo Domingo Centro (D.N.), Santo Domingo",600,"1/2 Baño, Agua Potable, Area Servicio Independiente, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gazzebo, Inversor, Patio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"5,800,000",3,2.5,1,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",135,"1/2 Baño, Agua Potable, Cisterna, Cuarto de Servicio, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"275,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",198,
+apartamento,US$,"149,000",2,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",132,
+apartamento,US$,"137,000",2,2,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",120,
+apartamento,US$,"165,000",3,2.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",129,
+casa,RD$,"9,500,000",3,2.5,NA,"Cuesta Brava, Santo Domingo Centro (D.N.), Santo Domingo",268,
+apartamento,US$,"185,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",115,
+apartamento,US$,"116,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",80,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"116,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",70,"1/2 Baño, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"204,461",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",175,"1/2 Baño, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Family Room, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"196,500",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",135,"1/2 Baño, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Family Room, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"199,000",3,3.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",195,
+apartamento,US$,"178,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",157,"Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"285,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",194,"Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+casa,US$,"170,000",3,3.5,2,"La Meseta, Santo Domingo Centro (D.N.), Santo Domingo",222,"1/2 Baño, Agua Potable, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Patio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"161,088",3,2.5,2,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",171,"Ascensor, Balcón, Seguridad 24 Horas"
+casa,RD$,"7,300,000",3,2.5,2,"La Meseta, Santo Domingo Centro (D.N.), Santo Domingo",268,"1/2 Baño, Agua Potable, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Patio, Terraza, Walk In Closet"
+casa,US$,"590,000",3,3.5,4,"Altos de Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",550,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gazzebo, Inversor, Jacuzzi, Patio, Planta Eléctrica, Pozo, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"2,790,000",2,2,1,"Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo",73,"Area de Juegos Infantiles, Balcón, Control de Acceso, Gazzebo, Piscina, Seguridad 24 Horas"
+apartamento,US$,"530,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",325,"1/2 Baño, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,US$,"525,000",5,4.5,5,"Los Rios, Santo Domingo Centro (D.N.), Santo Domingo",743,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Jacuzzi, Patio, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"13,260,000",2,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",305,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Control de Acceso, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Shutters, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"490,000",NA,NA,NA,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Piscina"
+apartamento,US$,"270,000",3,3.5,3,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",236,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estudio, Family Room, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+casa,RD$,"8,500,000",3,2.5,2,"Mar Azul, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Cisterna, Control de Acceso, Estar Familiar, Terraza"
+apartamento,US$,"140,200",2,2.5,2,"La Castellana, Santo Domingo Centro (D.N.), Santo Domingo",132,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"155,040",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",97,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+casa,RD$,"21,500,000",4,3,5,"Julieta, Santo Domingo Centro (D.N.), Santo Domingo",400,"Agua Potable, Balcón, Cisterna, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Patio, Seguridad 24 Horas, Terraza, Walk In Closet"
+casa,US$,"285,000",3,3.5,2,"Cuesta Hermosa III, Santo Domingo Centro (D.N.), Santo Domingo",370,"1/2 Baño, Agua Potable, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Patio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"162,725",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",140,"Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"160,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",89,"Area de Juegos Infantiles, Ascensor, Balcón, Cuarto de Servicio, Estar Familiar, Gimnasio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"110,728",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",94,"1/2 Baño, Agua Potable, Ascensor, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"185,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Estudio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"165,000",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Area Servicio Independiente, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"115,000",2,2,2,"Bella Vista Norte, Santo Domingo Centro (D.N.), Santo Domingo",105,"Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"135,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"135,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"152,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",132,
+apartamento,US$,"78,540",1,1.5,2,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",66,"1/2 Baño, Agua Potable, Ascensor, Balcón, Cuarto de Servicio, Gimnasio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,RD$,"7,500,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",0,"Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas"
+casa,US$,"295,000",3,3.5,3,"Cuesta Hermosa III, Santo Domingo Centro (D.N.), Santo Domingo",300,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Jacuzzi, Patio, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"244,500",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cuarto de Servicio, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+casa,US$,"360,000",3,3.5,NA,"Julieta, Santo Domingo Centro (D.N.), Santo Domingo",275,
+apartamento,US$,"215,000",3,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",196,"1/2 Baño, Area de Juegos Infantiles, Area Servicio Independiente, Balcón, Cuarto de Servicio, Estudio, Planta Eléctrica"
+apartamento,US$,"220,000",3,3,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",156,"1/2 Baño, Agua Potable, Ascensor, Cisterna, Gimnasio, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas"
+apartamento,US$,"190,000",3,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",204,"Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Cuarto de Servicio, Lobby, Piscina, Seguridad 24 Horas, Terraza"
+apartamento,US$,"96,600",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",69,"Estudio, Gimnasio, Piscina, Planta Eléctrica, Terraza"
+apartamento,US$,"180,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",145,"1/2 Baño, Balcón, Cuarto de Servicio, Estudio, Lobby, Piscina, Planta Eléctrica, Terraza, Walk In Closet"
+apartamento,RD$,"7,450,000",3,2,1,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",280,
+apartamento,US$,"262,000",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cuarto de Servicio, Estudio, Family Room, Lobby, Planta Eléctrica, Terraza"
+casa,RD$,"16,000,000",5,3,NA,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",300,
+apartamento,US$,"254,400",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",192,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Cuarto de Servicio, Estudio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"170,000",3,3,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",231,
+apartamento,US$,"225,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",100,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,RD$,"3,800,000",2,2,2,"Miramar, Santo Domingo Centro (D.N.), Santo Domingo",257,"1/2 Baño, Agua Potable, Area Servicio Independiente, Balcón, Cuarto de Servicio"
+apartamento,RD$,"5,800,000",3,2,2,"Miramar, Santo Domingo Centro (D.N.), Santo Domingo",180,
+apartamento,RD$,"4,800,000",2,2,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",90,
+casa,US$,"850,000",4,3,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",458,
+apartamento,US$,"119,000",3,2.5,2,"El Cacique, Santo Domingo Centro (D.N.), Santo Domingo",0,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Cuarto de Servicio, Lobby"
+apartamento,US$,"280,000",3,2,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",340,
+apartamento,US$,"235,000",3,3,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",128,"Area de Juegos Infantiles, Ascensor, Gimnasio, Jacuzzi, Piscina"
+apartamento,RD$,"5,300,000",2,2,2,"Zona Universitaria, Santo Domingo Centro (D.N.), Santo Domingo",110,
+apartamento,RD$,"5,500,000",2,2,2,"Gazcue, Santo Domingo Centro (D.N.), Santo Domingo",80,
+apartamento,US$,"325,000",1,1.5,1,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",215,"1/2 Baño, Agua Potable, Ascensor, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Terraza, Walk In Closet"
+apartamento,RD$,"5,600,000",2,2,2,"La Julia, Santo Domingo Centro (D.N.), Santo Domingo",135,"Agua Potable, Ascensor, Cuarto de Servicio, Estar Familiar, Estudio, Planta Eléctrica"
+apartamento,US$,"168,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",185,"1/2 Baño, Agua Potable, Balcón, Cuarto de Servicio"
+apartamento,RD$,"5,700,000",2,2,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Control de Acceso, Seguridad 24 Horas, Terraza"
+apartamento,RD$,"4,900,000",3,2,2,"Colina de los Rios, Santo Domingo Centro (D.N.), Santo Domingo",0,"Agua Potable, Balcón, Planta Eléctrica"
+apartamento,RD$,"5,600,000",3,2,2,"Quisqueya, Santo Domingo Centro (D.N.), Santo Domingo",120,"Cisterna, Gimnasio, Inversor"
+apartamento,RD$,"122,000",2,2.5,2,"Los Restauradores, Santo Domingo Centro (D.N.), Santo Domingo",128,"1/2 Baño, Agua Potable, Ascensor, Balcón, Lobby"
+apartamento,US$,"135,000",3,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Balcón, Control de Acceso, Cuarto de Servicio, Planta Eléctrica, Seguridad 24 Horas"
+apartamento,US$,"440,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",252,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Family Room, Gimnasio, Jacuzzi, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Shutters, Walk In Closet"
+apartamento,RD$,"7,200,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",150,"1/2 Baño, Aire Acondicionado, Cuarto de Servicio, Family Room, Patio, Seguridad 24 Horas"
+apartamento,US$,"143,000",3,2.5,2,"Jardines Del Sur, Santo Domingo Centro (D.N.), Santo Domingo",136,"Ascensor, Cuarto de Servicio, Planta Eléctrica, Walk In Closet"
+apartamento,US$,"155,000",2,2,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",159,"1/2 Baño, Agua Potable, Area de Juegos Infantiles, Ascensor, Gimnasio, Lobby, Terraza"
+apartamento,US$,"93,000",2,2,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",100,"Agua Potable, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Cisterna, Control de Acceso, Gimnasio, Lobby, Piscina, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"170,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",172,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Cisterna, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,RD$,"2,550,000",2,2,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",112,"Agua Potable, Balcón, Cisterna, Cuarto de Servicio"
+apartamento,US$,"180,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",168,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"250,000",3,3.5,2,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Estar Familiar, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores, Walk In Closet"
+apartamento,US$,"112,000",1,1.5,1,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",85,"1/2 Baño, Agua Potable, Ascensor, Balcón, Gimnasio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Vestidores"
+apartamento,US$,"245,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",155,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estudio, Gazzebo, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"450,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",387,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Family Room, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Shutters, Vestidores, Walk In Closet"
+casa,US$,"450,000",4,4.5,5,"Cuesta Hermosa I, Santo Domingo Centro (D.N.), Santo Domingo",380,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Patio, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,RD$,"3,800,000",2,2.5,2,"Altos de Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",120,"1/2 Baño, Agua Potable, Area Servicio Independiente, Cisterna, Control de Acceso, Gazzebo, Inversor, Seguridad 24 Horas, Terraza"
+apartamento,US$,"98,000",1,1.5,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",70,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Jacuzzi, Lobby, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores"
+apartamento,US$,"142,000",2,2.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",125,"1/2 Baño, Agua Potable, Ascensor, Cuarto de Servicio, Jacuzzi, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"195,000",3,3.5,2,"Arroyo Hondo Viejo, Santo Domingo Centro (D.N.), Santo Domingo",180,"1/2 Baño, Agua Potable, Area Servicio Independiente, Ascensor, Control de Acceso, Cuarto de Servicio, Estar Familiar, Gimnasio, Lobby, Planta Eléctrica, Pozo, Vestidores, Walk In Closet"
+apartamento,US$,"395,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",200,"1/2 Baño, Agua Potable, Aire Acondicionado, Area Servicio Independiente, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"330,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",170,"1/2 Baño, Agua Potable, Aire Acondicionado, Area de Juegos Infantiles, Ascensor, Balcón, Control de Acceso, Cuarto de Servicio, Gimnasio, Lobby, Piscina, Planta Eléctrica, Pozo, Seguridad 24 Horas, Terraza, Vestidores, Walk In Closet"
+apartamento,US$,"225,000",3,3.5,2,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",181,"1/2 Baño, Agua Potable, Family Room, Lobby, Planta Eléctrica, Terraza"
+apartamento,US$,"175,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",117,
+casa,US$,"1,500,000",4,5,8,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",900,
+apartamento,US$,"485,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",353,
+apartamento,US$,"132,000",1,1.5,1,"Paraiso, Santo Domingo Centro (D.N.), Santo Domingo",83,
+apartamento,US$,"109,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",68,
+apartamento,US$,"170,980",3,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",119,
+apartamento,US$,"160,000",2,2.5,2,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",115,
+apartamento,US$,"125,000",1,1.5,1,"Renacimiento, Santo Domingo Centro (D.N.), Santo Domingo",76,
+apartamento,US$,"246,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",224,
+apartamento,US$,"246,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",224,
+apartamento,US$,"231,060",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",176,
+apartamento,US$,"182,716",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",127,
+apartamento,US$,"136,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",88,
+apartamento,RD$,"2,250,000",3,2,1,"Colinas del Arroyo II, Santo Domingo Centro (D.N.), Santo Domingo",79,
+apartamento,US$,"169,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",145,
+apartamento,RD$,"4,600,000",3,2,2,"Los Rios, Santo Domingo Centro (D.N.), Santo Domingo",153,
+apartamento,US$,"246,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",207,
+apartamento,US$,"630,000",3,3.5,4,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",381,
+apartamento,US$,"137,000",2,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",116,
+apartamento,US$,"220,000",3,2.5,2,"Urbanizacion Real, Santo Domingo Centro (D.N.), Santo Domingo",218,
+apartamento,RD$,"25,000",3,2,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",0,
+apartamento,US$,"360,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",220,
+apartamento,US$,"125,000",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",105,
+apartamento,US$,"205,000",3,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",168,
+apartamento,US$,"187,700",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",149,
+apartamento,US$,"249,750",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",185,
+apartamento,US$,"259,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",178,
+apartamento,US$,"206,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",167,
+apartamento,US$,"225,000",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",195,
+apartamento,US$,"145,000",2,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",108,
+apartamento,US$,"99,000",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",57,
+apartamento,US$,"155,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",132,
+apartamento,US$,"252,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",212,
+apartamento,US$,"108,000",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",75,
+apartamento,US$,"87,344",1,1.5,1,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",51,
+apartamento,US$,"175,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",101,"1/2 Baño, Area de Juegos Infantiles, Ascensor, Gimnasio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza"
+apartamento,US$,"141,500",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",91,
+apartamento,US$,"500,000",3,3.5,3,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",325,
+apartamento,US$,"224,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",173,
+apartamento,US$,"294,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",189,
+apartamento,US$,"800,000",4,4.5,4,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",430,
+apartamento,US$,"185,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",160,
+apartamento,US$,"280,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",213,
+apartamento,US$,"180,500",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",127,
+apartamento,US$,"92,500",1,1.5,1,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",73,
+apartamento,RD$,"7,500,000",3,2.5,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",195,
+apartamento,US$,"190,000",3,3.5,2,"Fernandez, Santo Domingo Centro (D.N.), Santo Domingo",175,
+apartamento,RD$,"5,750,000",3,2.5,2,"Av. Independencia, Santo Domingo Centro (D.N.), Santo Domingo",120,
+apartamento,US$,"60,000",1,1,1,"Zona Universitaria, Santo Domingo Centro (D.N.), Santo Domingo",50,"Agua Potable, Area de Juegos Infantiles, Ascensor, Balcón, Cisterna, Control de Acceso, Estudio, Lobby, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"175,000",2,2.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",168,
+apartamento,US$,"260,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",239,
+apartamento,US$,"280,000",3,3.5,3,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",239,
+apartamento,US$,"97,482",1,1,1,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",70,
+apartamento,US$,"76,700",1,1.5,1,"Mirador Norte, Santo Domingo Centro (D.N.), Santo Domingo",59,
+apartamento,US$,"229,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",130,
+apartamento,US$,"1,095,000",3,3.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",460,
+apartamento,US$,"375,000",3,3.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",210,
+apartamento,US$,"190,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,US$,"214,000",2,2.5,2,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",142,
+apartamento,US$,"650,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",378,
+apartamento,US$,"925,000",4,4.5,4,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",450,
+apartamento,US$,"670,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",520,
+apartamento,US$,"1,550,000",4,4.5,5,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",650,
+apartamento,US$,"625,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",348,
+apartamento,US$,"2,100,000",4,4.5,5,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",800,
+apartamento,US$,"575,000",3,3.5,3,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",273,
+apartamento,RD$,"5,700,000",2,1.5,1,"Piantini, Santo Domingo Centro (D.N.), Santo Domingo",125,
+apartamento,US$,"320,000",3,3.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",270,
+apartamento,RD$,"3,150,000",3,2,2,"Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo",100,
+apartamento,US$,"71,000",3,2,1,"Mirador Sur, Santo Domingo Centro (D.N.), Santo Domingo",97,"Agua Potable, Area Servicio Independiente, Balcón, Cisterna, Cuarto de Servicio, Seguridad 24 Horas, Walk In Closet"
+apartamento,US$,"148,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",130,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Terraza"
+apartamento,US$,"350,000",3,3.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",401,
+apartamento,US$,"180,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",151,
+apartamento,US$,"214,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",174,
+apartamento,US$,"139,000",2,2.5,1,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",110,
+apartamento,US$,"136,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",118,"1/2 Baño, Aire Acondicionado, Ascensor, Balcón, Cisterna, Cuarto de Servicio, Gimnasio, Lobby, Planta Eléctrica, Terraza"
+apartamento,US$,"240,000",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",200,
+apartamento,US$,"260,000",3,3.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",220,
+apartamento,US$,"198,000",2,2.5,2,"Naco, Santo Domingo Centro (D.N.), Santo Domingo",170,
+casa,RD$,"5,500,000",3,2.5,2,"Altos de Arroyo Hondo II, Santo Domingo Centro (D.N.), Santo Domingo",142,
+casa,RD$,"19,500,000",4,3.5,4,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",350,
+apartamento,US$,"185,000",3,3.5,2,"Evaristo Morales, Santo Domingo Centro (D.N.), Santo Domingo",220,
+apartamento,US$,"195,000",2,2.5,2,"Los Cacicazgos, Santo Domingo Centro (D.N.), Santo Domingo",137,
+apartamento,US$,"137,000",3,2.5,2,"El Millon, Santo Domingo Centro (D.N.), Santo Domingo",130,
+apartamento,RD$,"7,600,000",3,2.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",128,
+apartamento,US$,"1,480,000",3,3.5,3,"Anacaona, Santo Domingo Centro (D.N.), Santo Domingo",420,
+apartamento,US$,"234,885",2,2.5,2,"La Esperilla, Santo Domingo Centro (D.N.), Santo Domingo",156,
+apartamento,US$,"400,000",3,2,2,"Arroyo Hondo, Santo Domingo Centro (D.N.), Santo Domingo",300,
+casa,US$,"980,000",3,3.5,5,"Cuesta Hermosa II, Santo Domingo Centro (D.N.), Santo Domingo",760,"1/2 Baño, Agua Potable, Balcón, Cisterna, Control de Acceso, Cuarto de Servicio, Estar Familiar, Estudio, Patio, Piscina, Planta Eléctrica, Seguridad 24 Horas, Terraza, Walk In Closet"
+apartamento,US$,"307,500",3,3.5,2,"Bella Vista, Santo Domingo Centro (D.N.), Santo Domingo",287,
