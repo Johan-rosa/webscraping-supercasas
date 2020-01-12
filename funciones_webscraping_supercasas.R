@@ -5,8 +5,6 @@ library(lubridate)
 library(lubridate)
 library(polite)
 
-
-
 # Funciones ------------------------------------------------------------------------
 
   # Extraer las url individuales --- ---- 
