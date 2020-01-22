@@ -3,9 +3,7 @@ source("funciones_webscraping_supercasas.R")
 url_historicas <- readRDS("url_historicas.RDS")
 
 
-
 # Parametros de las viviendas de Santo Domingo en SuperCasas
-
 
 # Descargando las url individuales
 
