@@ -133,6 +133,7 @@ get_house_data <- function(supercasas_bow, url_casa) {
   
 }
 
+get_house_data <- purrr::possibly(get_house_data, data.frame())
 # tidy_house_data --- ----
 
 tidy_house_data <- function(df) {
