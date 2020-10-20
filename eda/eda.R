@@ -26,7 +26,7 @@ data_eda <- data_eda %>%
   janitor::clean_names()
 
 data_eda %>% 
-  count(scrape_date) %>%  view()
+  count(scrape_date) %>%
   filter(scrape_date > "2019-12-31") %>% 
   ggplot(aes(scrape_date, n)) +
   geom_line()
@@ -34,4 +34,5 @@ data_eda %>%
 
 library(xlsx)
 
-write.xlsx(data_eda, "data_supercasas.xlsx")
+#write.xlsx(data_eda, "data_supercasas.xlsx")
+write_rds(data_eda, "data_rds/data_supercasas.rds")
