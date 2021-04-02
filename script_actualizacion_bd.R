@@ -27,6 +27,13 @@ data_nueva <- bind_rows(data_nueva) %>%
   tidy_house_data()
 
 
+# manual_date <- "2021-03-30"
+# 
+# data_nueva <- data_nueva %>% 
+#   mutate(
+#     scrape_date = lubridate::ymd(manual_date)
+#   )
+
 # Guardando archivos actualizados
 data_historica <- readRDS("data_historica.RDS")
 
@@ -43,6 +50,7 @@ saveRDS(
   paste0(
     "data_rds/url_nuevas",
     Sys.Date(),
+    #manual_date,
     ".RDS"))
 
 saveRDS(
@@ -50,6 +58,7 @@ saveRDS(
   paste0(
     "data_rds/data_historica",
     Sys.Date(),
+    #manual_date,
     ".RDS"))
 
 saveRDS(
@@ -57,6 +66,7 @@ saveRDS(
   paste0(
     "data_rds/url_historicas",
     Sys.Date(),
+    #manual_date,
     ".RDS")
   )
 
