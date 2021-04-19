@@ -1,13 +1,19 @@
+
+# Paquetes ----------------------------------------------------------------
+library(here)
 library(tidyverse)
 library(bcdata)
 library(lubridate)
 
+
+# Importando datos --------------------------------------------------------
 tcambio <- get_tcambio("mensual") %>% 
   select(fecha, tcn_venta)
 
-data_eda <- data_historica
+data_historica <- read_rds(here("data_historica.rds"))
 
-data_eda <- data_eda %>% 
+
+data_historica <- data_historica %>% 
   mutate(fecha = floor_date(scrape_date, "month")) %>% 
   left_join(tcambio) %>% 
   mutate(
@@ -18,17 +24,17 @@ data_eda <- data_eda %>%
          divisa, precio, tcn_venta, detalles)
 
 
-data_eda <- data_eda %>% 
+data_historica <- data_historica %>% 
   rowid_to_column(var = "id") %>% 
   separate_rows(detalles, sep = ", ") %>% 
   mutate(dummy = 1) %>% 
   spread(detalles, dummy, fill = 0) %>% 
   janitor::clean_names()
 
-data_eda %>% 
-  count(scrape_date) %>%
-  filter(scrape_date > "2019-12-31") %>% 
-  ggplot(aes(scrape_date, n)) +
+data_historica %>% 
+  count(fecha) %>%
+  filter(fecha > "2019-12-31") %>% 
+  ggplot(aes(fecha, n)) +
   geom_line()
 
 

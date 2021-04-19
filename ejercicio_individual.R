@@ -16,8 +16,9 @@ get_url <- function(url_general) {
     str_subset(pattern = "apartamentos|casas-")
 }
 
-
 get_house_data <- function(url_casa) {
+  
+  url_casa <- paste0("https://www.supercasas.com", url_casa)
   
   # leer el html
   html <- read_html(url_casa)
@@ -88,72 +89,6 @@ get_house_data <- function(url_casa) {
 
 
 # Extraer los datos de las viviendas publicadas ------------------------------------
+urls <- get_url("https://www.supercasas.com/buscar/?PriceType=400")
 
-# Url generales DN --- ---
-
-paginas_generales_distrito <- paste0(
-  "https://www.supercasas.com/buscar/?Locations=47&PriceType=400&PagingPageSkip=",
-  0:41)
-
-
-# Extraer las url individuales de las casas en venta del DN
-
-url_casas_distrito <- list()
-
-for (i in 1:length(paginas_generales_distrito)) {
-  
-  url_casas_distrito[[i]] <- get_url(paginas_generales_distrito[i]) 
-  
-  print(i/length(paginas_generales_distrito) * 100)
-  
-  Sys.sleep(0.3)
-}
-
-url_casas_distrito <- url_casas_distrito %>%
-  unlist() %>%
-  paste0("https://www.supercasas.com/", .)
-
-# Extraer caracteristicas de las casas --- ---- 
-
-datos_inmuebles <- vector(mode = "list", length = length(url_casas_distrito))
-
-for (i in 1:length(url_casas_distrito)) {
-  
-  datos_inmuebles_diciembre[[i]] <- get_house_data(url_casas_distrito[i])
-  print(paste0("Iteracion: ", i, " de ", length(url_casas_distrito)))
-  
-  Sys.sleep(5)
-}
-
-
-datos_diciembre_df <- datos_inmuebles %>%
-  #map(~.x %>%
-  #      dplyr::select(tipo_vivienda:metraje) %>%
-  #      summarise_all( unique) ) %>%
-  bind_rows()
-
-datos_inmuebles_df %>%
-  glimpse()
-
-write_csv(datos_inmuebles_df, "data_distrito_clean2.csv")  
-
-datos_inmuebles_clean <- datos_inmuebles_df %>%
-  separate(precio, into = c("divisa", "precio"), sep = " ") %>%
-  mutate(
-    precio = parse_number(precio),
-    habitaciones = parse_number(habitaciones),
-    banios = parse_number(banios),
-    parqueos = parse_number(parqueos),
-    metraje = parse_number(metraje)
-    ) %>% glimpse()
-
-datos_inmuebles_df$detalles %>%
-  view()
-  str_extract(" .*$") %>%
-  table
-
-
-write.csv(datos_inmuebles_clean, "data_distrito_clean2.csv")
-
-save.image("ws_noviembre")
-
+map_df(urls[1:3], get_house_data)
