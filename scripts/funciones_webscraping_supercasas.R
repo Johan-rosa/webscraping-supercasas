@@ -9,7 +9,8 @@ library(polite)
 
   # Extraer las url individuales --- ---- 
 
-  get_url_viviendas <- function(provincia = "sd_centro", start_page = 0, end_page = 41) {
+  get_url_viviendas <- function(
+    provincia = "sd_centro", start_page = 0, end_page = 41) {
   
   # Parametros de utilidad --- --- ---
   

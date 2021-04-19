@@ -5,6 +5,7 @@ library(tidyverse)
 library(bcdata)
 library(lubridate)
 
+
 # Importando datos --------------------------------------------------------
 tcambio <- get_tcambio("mensual") %>% 
   select(fecha, tcn_venta)
