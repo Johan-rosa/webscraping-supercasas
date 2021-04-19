@@ -1,6 +1,10 @@
+
+# Paquetes ----------------------------------------------------------------
+library(here)
+
 # Funciones de trabajo -------------------------------------------------------------
-source("funciones_webscraping_supercasas.R")
-url_historicas <- readRDS("url_historicas.RDS")
+source(here("scripts", "funciones_webscraping_supercasas.R"))
+url_historicas <- readRDS(here("data", "url_historicas.RDS"))
 
 
 # Parametros de las viviendas de Santo Domingo en SuperCasas
@@ -35,20 +39,20 @@ data_nueva <- bind_rows(data_nueva) %>%
 #   )
 
 # Guardando archivos actualizados
-data_historica <- readRDS("data_historica.RDS")
+data_historica <- readRDS(here("data", "data_historica.RDS"))
 
 data_historica <- bind_rows(data_historica, data_nueva)
 url_historicas <- c(url_historicas, url_casas_nuevas) 
 
-saveRDS(data_historica, "data_historica.RDS")
-saveRDS(url_historicas, "url_historicas.RDS")
+saveRDS(data_historica, here("data", "data_historica.RDS"))
+saveRDS(url_historicas, here("data",  "url_historicas.RDS"))
 
 # Esta parte es para tener versiones de control
 
 saveRDS(
   url_casas_nuevas,
   paste0(
-    "data_rds/url_nuevas",
+    "data/data_rds/url_nuevas",
     Sys.Date(),
     #manual_date,
     ".RDS"))
@@ -56,7 +60,7 @@ saveRDS(
 saveRDS(
   data_historica,
   paste0(
-    "data_rds/data_historica",
+    "data/data_rds/data_historica",
     Sys.Date(),
     #manual_date,
     ".RDS"))
@@ -64,7 +68,7 @@ saveRDS(
 saveRDS(
   url_historicas,
   paste0(
-    "data_rds/url_historicas",
+    "data/data_rds/url_historicas",
     Sys.Date(),
     #manual_date,
     ".RDS")
