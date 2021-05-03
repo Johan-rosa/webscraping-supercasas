@@ -31,9 +31,9 @@ data_nueva <- bind_rows(data_nueva) %>%
   tidy_house_data()
 
 
-# manual_date <- "2021-03-30"
+# manual_date <- "2021-04-30"
 # 
-# data_nueva <- data_nueva %>% 
+# data_nueva <- data_nueva %>%
 #   mutate(
 #     scrape_date = lubridate::ymd(manual_date)
 #   )
