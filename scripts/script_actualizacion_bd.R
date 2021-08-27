@@ -3,8 +3,8 @@
 library(here)
 
 # Funciones de trabajo -------------------------------------------------------------
-source(here("scripts", "funciones_webscraping_supercasas.R"))
-url_historicas <- readRDS(here("data", "url_historicas.RDS"))
+source(here::here("scripts", "funciones_webscraping_supercasas.R"))
+url_historicas <- readRDS(here::here("data", "url_historicas.RDS"))
 
 
 # Parametros de las viviendas de Santo Domingo en SuperCasas
@@ -39,13 +39,13 @@ data_nueva <- bind_rows(data_nueva) %>%
 #   )
 
 # Guardando archivos actualizados
-data_historica <- readRDS(here("data", "data_historica.RDS"))
+data_historica <- readRDS(here::here("data", "data_historica.RDS"))
 
 data_historica <- bind_rows(data_historica, data_nueva)
 url_historicas <- c(url_historicas, url_casas_nuevas) 
 
-saveRDS(data_historica, here("data", "data_historica.RDS"))
-saveRDS(url_historicas, here("data",  "url_historicas.RDS"))
+saveRDS(data_historica, here::here("data", "data_historica.RDS"))
+saveRDS(url_historicas, here::here("data",  "url_historicas.RDS"))
 
 # Esta parte es para tener versiones de control
 
