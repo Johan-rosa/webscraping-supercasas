@@ -1,12 +1,12 @@
 # Paquetes -------------------------------------------------------------------------
 library(rvest)
 library(tidyverse)
-library(dplyr)
-library(tidyr)
-library(purrr)
-library(forcats)
 library(lubridate)
 library(polite)
+
+source(here::here('scripts/my_bow.R'))
+#library(polite)
+
 
 # Funciones ------------------------------------------------------------------------
 
@@ -33,23 +33,25 @@ library(polite)
   parametro_location <- provincias_disponibles[[provincia]]
   pages_seq <- seq(start_page, end_page)
   session <- bow("https://www.supercasas.com/buscar/?",
-                 user_agent = "johan.rosaperez@gmail.com")
+                 user_agent = "johan.rosaperez@gmail.com", delay = 0.01, 
+                 verbose = FALSE, force = TRUE)
   
   
-  html_generales <- map(
+  html_generales <- purrr::map(
     pages_seq,
-    ~scrape(session,
-         query = list(location = parametro_location,
+    ~polite::scrape(
+      session,
+      query = list(location = parametro_location,
                       PriceType = "400",
                       PagingPageSkip = .x)
-         ))
+      ))
   
-  url_disponibles <- map(
+  url_disponibles <- purrr::map(
     html_generales,
       ~.x %>%
-        html_nodes(".normal a") %>%
-        html_attr("href") %>%
-        str_subset(pattern = pattern_type)
+        rvest::html_nodes(".normal a") %>%
+        rvest::html_attr("href") %>%
+        stringr::str_subset(pattern = pattern_type)
       )
   
   
@@ -69,7 +71,7 @@ get_house_data <- function(supercasas_bow, url_casa) {
     "penthouse|negocio|local comercial" )
 
   html <- nod(supercasas_bow, url_casa) %>%
-    scrape()
+    polite::scrape()
   
   scrape_date <- Sys.Date()
   
