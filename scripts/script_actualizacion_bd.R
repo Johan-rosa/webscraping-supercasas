@@ -2,10 +2,15 @@
 library(here)
 
 # Funciones de trabajo -------------------------------------------------------------
+<<<<<<< HEAD:scripts/script_actualizacion_bd.R
+source(here("scripts", "funciones_webscraping_supercasas.R"))
+url_historicas <- readRDS(here("data", "url_historicas.RDS"))
+=======
 source(here::here("scripts", "funciones_webscraping_supercasas.R"))
 
 
 url_historicas <- readRDS(here::here("data", "url_historicas.RDS"))
+>>>>>>> 78f2016b7d02268b274f5ffc3528f0726526bc1a:script_actualizacion_bd.R
 
 
 # Parametros de las viviendas de Santo Domingo en SuperCasas
@@ -40,13 +45,22 @@ data_nueva <- bind_rows(data_nueva) %>%
 #   )
 
 # Guardando archivos actualizados
+<<<<<<< HEAD:scripts/script_actualizacion_bd.R
+data_historica <- readRDS(here("data", "data_historica.RDS"))
+=======
 data_historica <- readRDS(here::here("data", "data_historica.RDS"))
+>>>>>>> 78f2016b7d02268b274f5ffc3528f0726526bc1a:script_actualizacion_bd.R
 
 data_historica <- bind_rows(data_historica, data_nueva)
 url_historicas <- c(url_historicas, url_casas_nuevas) 
 
+<<<<<<< HEAD:scripts/script_actualizacion_bd.R
+saveRDS(data_historica, here("data", "data_historica.RDS"))
+saveRDS(url_historicas, here("data",  "url_historicas.RDS"))
+=======
 saveRDS(data_historica, here::here("data", "data_historica.RDS"))
 saveRDS(url_historicas, here::here("data",  "url_historicas.RDS"))
+>>>>>>> 78f2016b7d02268b274f5ffc3528f0726526bc1a:script_actualizacion_bd.R
 
 # Esta parte es para tener versiones de control
 
