@@ -5,12 +5,11 @@ library(tidyverse)
 library(bcdata)
 library(lubridate)
 
-
 # Importando datos --------------------------------------------------------
 tcambio <- get_tcambio("mensual") %>% 
   select(fecha, tcn_venta)
 
-data_historica <- read_rds(here("data_historica.rds"))
+data_historica <- read_rds(here::here("data/data_historica.RDS"))
 
 
 data_historica <- data_historica %>% 

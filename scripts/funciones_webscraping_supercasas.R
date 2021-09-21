@@ -1,7 +1,10 @@
 # Paquetes -------------------------------------------------------------------------
 library(rvest)
 library(tidyverse)
-library(lubridate)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(forcats)
 library(lubridate)
 library(polite)
 
@@ -135,6 +138,7 @@ get_house_data <- function(supercasas_bow, url_casa) {
 }
 
 get_house_data <- purrr::possibly(get_house_data, data.frame())
+
 # tidy_house_data --- ----
 
 tidy_house_data <- function(df) {

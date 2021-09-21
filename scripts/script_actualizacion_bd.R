@@ -1,9 +1,10 @@
-
 # Paquetes ----------------------------------------------------------------
 library(here)
 
 # Funciones de trabajo -------------------------------------------------------------
 source(here::here("scripts", "funciones_webscraping_supercasas.R"))
+
+
 url_historicas <- readRDS(here::here("data", "url_historicas.RDS"))
 
 
@@ -20,7 +21,7 @@ url_casas_nuevas <- url_casas_nuevas[!url_casas_nuevas %in% url_historicas]
 supercasas_bow <- bow(
   "https://www.supercasas.com",
   user_agent = "johan.rosaperez@gmail.com",
-  delay = 1)
+  delay = 0.5)
 
 data_nueva <- map(
   url_casas_nuevas,

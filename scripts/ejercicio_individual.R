@@ -13,8 +13,10 @@ get_url <- function(url_general) {
   read_html(url_general) %>%
     html_nodes(".normal a") %>%
     html_attr("href") %>%
-    str_subset(pattern = "apartamentos|casas-")
+    str_subset(pattern = "penthouse|apartamentos|casas-")
 }
+
+
 
 get_house_data <- function(url_casa) {
   
