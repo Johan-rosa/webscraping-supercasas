@@ -20,7 +20,7 @@ data_nueva <-  map(url_casas_nuevas, get_house_data)
 data_nueva <- bind_rows(data_nueva) %>% 
   tidy_house_data()
 
-# manual_date <- "2021-04-30"
+# manual_date <- "2021-11-30"
 # 
 # data_nueva <- data_nueva %>%
 #   mutate(

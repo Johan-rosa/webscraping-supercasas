@@ -9,7 +9,7 @@ library(lubridate)
 tcambio <- get_tcambio("mensual") %>% 
   select(fecha, tcn_venta)
 
-data_historica <- read_rds(here("data_historica.rds"))
+data_historica <- read_rds(here("data/data_historica.RDS"))
 
 
 data_historica <- data_historica %>% 
@@ -21,7 +21,6 @@ data_historica <- data_historica %>%
   select(scrape_date, fecha, tipo_vivienda, precio_pesos,
          habitaciones, banios, parqueos, direccion, metraje,
          divisa, precio, tcn_venta, detalles)
-
 
 data_historica <- data_historica %>% 
   rowid_to_column(var = "id") %>% 
@@ -40,4 +39,6 @@ data_historica %>%
 library(xlsx)
 
 #write.xlsx(data_eda, "data_supercasas.xlsx")
-write_rds(data_eda, "data_rds/data_supercasas.rds")
+write_rds(data_historica, "data/data_rds/data_supercasas.rds")
+openxlsx::write.xlsx(data_historica, "data/data_csv/data_supercasas.xlsx")
+
