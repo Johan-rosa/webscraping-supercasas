@@ -62,5 +62,3 @@ saveRDS(
     #manual_date,
     ".RDS")
 )
-
-
