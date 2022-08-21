@@ -1,23 +1,15 @@
-# Paquetes -------------------------------------------------------------------------
-library(rvest)
-library(tidyverse)
-library(lubridate)
-
-
 # Objetos utilitarios --------------------------------------------------------------
 
 # Extraer las url individuales --- --- 
 
 get_url <- function(url_general) {
-  read_html('https://www.supercasas.com/buscar/?Locations=47&PriceType=400&PagingPageSkip=1') %>% 
-    html_elements('li.normal a') %>% 
-    html_attr('href') %>% 
-    str_subset(pattern = "/casa|apartamento|solar|finca|naves|oficina|edificio|penthouse|negocio|local comercial")
+  rvest::read_html('https://www.supercasas.com/buscar/?Locations=47&PriceType=400&PagingPageSkip=1') %>% 
+    rvest::html_elements('li.normal a') %>% 
+    rvest::html_attr('href') %>% 
+    stringr::str_subset(pattern = "/casa|apartamento|solar|finca|naves|oficina|edificio|penthouse|negocio|local comercial")
 }
 
-
 save_get_url <- purrr::possibly(get_url, otherwise = NA_character_, quiet = TRUE)
-
 
 get_url_viviendas <- function(
   provincia = "sd_centro", start_page = 0, end_page = 41) {
@@ -39,16 +31,13 @@ get_url_viviendas <- function(
   
   pages_seq <- seq(start_page, end_page)
   
-  
   urls <- paste0(
     "https://www.supercasas.com/buscar/?location=", parametro_location,
     "&PriceType=400&PagingPageSkip=", pages_seq
     )
-  
-  
- viviendas_url <- map(urls, save_get_url) %>% 
+
+ viviendas_url <- purrr::map(urls, save_get_url) %>% 
    unlist()
-  
 
  return(viviendas_url)
 }
@@ -63,26 +52,26 @@ get_house_data <- function(url_casa) {
   url_casa <- paste0("https://www.supercasas.com", url_casa)
   
   # leer el html
-  html <- read_html(url_casa)
+  html <- rvest::read_html(url_casa)
   
   scrape_date <- Sys.Date()
   
   tipo_vivienda <- html %>%
-    html_nodes("#detail-ad-header h2") %>%
-    html_text() %>%
-    str_to_lower() %>%
-    str_extract(pattern = pattern_type)
+    rvest::html_nodes("#detail-ad-header h2") %>%
+    rvest::html_text() %>%
+    stringr::str_to_lower() %>%
+    stringr::str_extract(pattern = pattern_type)
   
   # extraer el precio del inmueble
   precio <- html %>%
-    html_nodes("#detail-ad-header h3") %>%
-    html_text()
+    rvest::html_nodes("#detail-ad-header h3") %>%
+    rvest::html_text()
   
   # extraer atributos con cantidad de habitaciones,
   # baños y paqueos
   atributos <- html %>%
-    html_nodes(".secondary-info span") %>%
-    html_text()
+    rvest::html_nodes(".secondary-info span") %>%
+    rvest::html_text()
   
   # Cantidad de habitaciones  
   habitaciones <- atributos[1]
@@ -99,19 +88,19 @@ get_house_data <- function(url_casa) {
   
   # Dirección
   direccion <- html %>%
-    html_nodes("tr:nth-child(1) td") %>%
-    html_text() %>%
+    rvest::html_nodes("tr:nth-child(1) td") %>%
+    rvest::html_text() %>%
     tail(1)
   
   # Dimensiones
   metraje <- html %>%
-    html_nodes("tr:nth-child(3) td:nth-child(2)") %>%
-    html_text()
+    rvest::html_nodes("tr:nth-child(3) td:nth-child(2)") %>%
+    rvest::html_text()
   
   # Detalles
   detalles <- html %>%
-    html_nodes("#detail-ad-info-specs ul li") %>%
-    html_text() %>%
+    rvest::html_nodes("#detail-ad-info-specs ul li") %>%
+    rvest::html_text() %>%
     paste(collapse = ", ")
   
   data <- data.frame(
@@ -125,25 +114,23 @@ get_house_data <- function(url_casa) {
     metraje = metraje,
     detalles = detalles
   )
-  
+
   return(data)
-  
-  
+
 }
 
 get_house_data <- purrr::possibly(get_house_data, data.frame())
 
-
 tidy_house_data <- function(df) {
   
   df_tidy <- df %>%
-    separate(precio, into = c("divisa", "precio"), sep = " ") %>%
-    mutate(
-      precio = parse_number(precio),
-      habitaciones = parse_number(habitaciones),
-      banios = parse_number(banios),
-      parqueos = parse_number(parqueos),
-      metraje = parse_number(metraje)
+    tidyr::separate(precio, into = c("divisa", "precio"), sep = " ") %>%
+    dplyr::mutate(
+      precio = readr::parse_number(precio),
+      habitaciones = readr::parse_number(habitaciones),
+      banios = readr::parse_number(banios),
+      parqueos = readr::parse_number(parqueos),
+      metraje = readr::parse_number(metraje)
     )
   
   return(df_tidy)

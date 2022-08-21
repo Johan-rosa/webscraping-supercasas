@@ -1,4 +1,3 @@
-# Restore dependecies -----------------------------------------------------
 dependencies <- c(
   "rvest",
   "here",
@@ -7,5 +6,4 @@ dependencies <- c(
 
 install.packages(dependencies)
 
-# Sourcing file
 source("scripts/script_actualizacion_bd.R")

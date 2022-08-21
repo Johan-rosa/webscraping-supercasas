@@ -5,7 +5,7 @@ library(tidyverse)
 
 # Funciones de trabajo ----------------------------------------------------
 source(
-  here::here("scripts", "ejercicio_individual.R"), 
+  here::here("scripts", "webscrapping_functions.R"), 
   echo = FALSE, encoding = "UTF-8")
 
 # URL de las páginas generales --------------------------------------------
