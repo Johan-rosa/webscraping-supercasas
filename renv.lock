@@ -93,22 +93,6 @@
       "Hash": "543776ae6848fde2f48ff3816d0628bc",
       "Requirements": []
     },
-    "bcdata": {
-      "Package": "bcdata",
-      "Version": "0.1.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "55d867074cb900e7262590a270c1124c",
-      "Requirements": [
-        "dplyr",
-        "janitor",
-        "lubridate",
-        "purrr",
-        "readxl",
-        "stringr",
-        "tidyr"
-      ]
-    },
     "bit": {
       "Package": "bit",
       "Version": "4.0.4",
