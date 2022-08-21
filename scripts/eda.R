@@ -40,4 +40,4 @@ data_historica %>%
 library(xlsx)
 
 #write.xlsx(data_eda, "data_supercasas.xlsx")
-write_rds(data_eda, "data_rds/data_supercasas.rds")
+write_rds(data_historica, "data/data_supercasas.rds")

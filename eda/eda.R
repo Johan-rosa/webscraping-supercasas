@@ -1,4 +1,3 @@
-
 # Paquetes ----------------------------------------------------------------
 library(here)
 library(tidyverse)
@@ -18,9 +17,10 @@ data_historica <- data_historica %>%
   mutate(
     precio_pesos = ifelse(divisa == "US$", precio * tcn_venta, precio)
   ) %>% 
-  select(scrape_date, fecha, tipo_vivienda, precio_pesos,
-         habitaciones, banios, parqueos, direccion, metraje,
-         divisa, precio, tcn_venta, detalles)
+  select(
+    scrape_date, fecha, tipo_vivienda, precio_pesos,
+    habitaciones, banios, parqueos, direccion, metraje,
+    divisa, precio, tcn_venta, everything())
 
 data_historica <- data_historica %>% 
   rowid_to_column(var = "id") %>% 
